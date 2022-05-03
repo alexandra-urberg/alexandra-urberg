@@ -2,7 +2,7 @@
 ## My name is Alexandra
 
 - 🔭 I’m a Junior Front-end developer
-- 🌱 I’m currently learning Redux, Vue, UI/UX
+- 🌱 I’m currently learning Redux, TS, UI/UX
 - 📫 How to reach me: Telegram [@sashystikk](https://t.me/sashystikk)
 
 **Languages and Tools:**
