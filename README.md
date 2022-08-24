@@ -3,7 +3,6 @@
 
 - 🔭 I’m a Front-end developer
 - 🌱 I’m currently working as a freelance web developer and learning TS, UI/UX
-- 📫 How to reach me: Telegram [@sashystikk](https://t.me/sashystikk)
 
 **Languages and Tools:**
 
