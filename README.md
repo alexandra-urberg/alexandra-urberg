@@ -4,7 +4,7 @@
 - 🔭 I’m a Front-end developer
 - 🌱 I’m currently working as a freelance web developer and learning TS, UI/UX
 
-**Languages and Tools:**
+**Stack :**
 
 <code><img height="25" src="https://github.com/alexandra-stepanova/alexandra-stepanova/blob/main/assets/10714751421536080157.svg"></code>
 <code><img height="25" src="https://github.com/alexandra-stepanova/alexandra-stepanova/blob/main/assets/16738931111536080149-128.png"></code>
@@ -17,4 +17,4 @@
 
 
 ![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-stepanova&count_private=true&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-stepanova&count_private=true&layout=compact&count_private=true&langs_count=5&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-stepanova&langs_count=5&count_private=true&layout=compact&theme=vue)
