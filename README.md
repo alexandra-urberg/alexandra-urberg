@@ -17,4 +17,4 @@
 
 
 ![Sasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandra-stepanova&count_private=true&show_icons=true&theme=vue)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-stepanova&langs_count=5&count_private=true&hide=html&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandra-stepanova&count_private=true&langs_count=5&layout=compact&theme=vue)
