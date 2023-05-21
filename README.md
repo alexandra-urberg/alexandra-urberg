@@ -16,5 +16,5 @@
 <code><img height="25" src="https://github.com/alexandra-stepanova/alexandra-stepanova/blob/main/assets/17459301571551942128.svg"></code>
 
 
-![Sasha's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandra-stepanova&count_private=true&show_icons=true&theme=vue)
+![Sasha's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alexandra-stepanova&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=vue)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandra-stepanova&count_private=true&langs_count=5&layout=compact&theme=vue)
