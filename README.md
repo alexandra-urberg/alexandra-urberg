@@ -2,7 +2,7 @@
 ## My name is Alexandra
 
 - 🔭 I’m a Front-end developer
-- 🌱 I’m currently working as a freelance web developer and learning UI/UX
+- 🌱 I’m currently working as a freelance web developer
 
 **Stack :**
 
