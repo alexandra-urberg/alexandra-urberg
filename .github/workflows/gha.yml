@@ -1,0 +1,64 @@
+name: GitHub Readme Stats
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: 0 */4 * * *  # Change to make the action run more or less frequently. Please be aware that GitHub's free plan only has 2000 CI minutes.
+jobs:
+  stats:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate Stats
+        uses: Zo-Bro-23/grs-action@main
+        id: generate
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: 'username=${{ github.repository_owner }}&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=vue'
+          path: stats.svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: stats
+          path: stats.svg
+  top-langs:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Top Languages Card
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Generate Top Languages
+        uses: Zo-Bro-23/grs-action@main
+        id: generate
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          options: 'username=${{ github.repository_owner }}&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=vue'
+          card: 'top-langs'
+          path: top-langs.svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: top-langs
+          path: top-langs.svg
+  push:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Push
+    needs: [stats, top-langs]
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          name: stats
+          path: gha
+      - uses: actions/download-artifact@master
+        with:
+          name: top-langs
+          path: gha
+      - name: Push
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: gha
+          build_dir: gha
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
