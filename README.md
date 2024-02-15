@@ -15,8 +15,8 @@
 <code><img height="25" src="https://github.com/alexandra-urberg/alexandra-urberg/blob/main/assets/17459301571551942128.svg"></code>
 
 <div align="center"> 
-<img height=259 src="https://github-readme-stats-git.vercel.app/api/top-langs/?username=alexandra-urberg&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=vue" alt="alexandra-urberg's Language stats" />
-<img height=259 src="https://github-readme-stats-git.vercel.app/api?username=lexandra-urberg&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=vue" alt="alexandra-urberg's Github stats" />
+<img height=259 src="https://github-readme-stats-alex.vercel.app/api/top-langs/?username=alexandra-urberg&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=vue" alt="alexandra-urberg's Language stats" />
+<img height=259 src="https://github-readme-stats-alex.vercel.app/api?username=lexandra-urberg&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=vue" alt="alexandra-urberg's Github stats" />
 </div>
 
 
