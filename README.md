@@ -15,6 +15,6 @@
 <code><img height="25" src="https://github.com/alexandra-urberg/alexandra-urberg/blob/main/assets/17459301571551942128.svg"></code>
 
 
-<img width="450em" align="center" src="https://raw.githubusercontent.com/alexandra-urberg/alexandra-urberg/fc2ae2d51fbd73f20c06bba8a3d29ea21c119fc2/stats.svg" alt="Sasha's github stats" />
+<img width="450em" align="center" src="https://raw.githubusercontent.com/alexandra-urberg/alexandra-urberg/refs/heads/gha/stats.svg" alt="Sasha's github stats" />
 
 <img width="450em" align="center" src="https://raw.githubusercontent.com/alexandra-urberg/alexandra-urberg/refs/heads/gha/top-langs.svg" alt="Sasha's github stats" />
