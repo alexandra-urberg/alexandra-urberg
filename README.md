@@ -17,4 +17,4 @@
 
 <img width="450em" align="center" src="https://raw.githubusercontent.com/alexandra-urberg/alexandra-urberg/fc2ae2d51fbd73f20c06bba8a3d29ea21c119fc2/stats.svg" alt="Sasha's github stats" />
 
-<img width="450em" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alexandra-urberg&layout=compact&custom_title=Most%20used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=vue" alt="Sasha's github stats" />
+<img width="450em" align="center" src="https://raw.githubusercontent.com/alexandra-urberg/alexandra-urberg/refs/heads/gha/top-langs.svg" alt="Sasha's github stats" />
